@@ -1,0 +1,8 @@
+server:
+  port: 8080
+
+football-api:
+  url: "https://apiv3.apifootball.com/"
+  key: ${FOOTBALL_API_KEY}
+
+offline-mode: true
